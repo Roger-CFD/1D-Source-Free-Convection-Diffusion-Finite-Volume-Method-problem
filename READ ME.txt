@@ -1,0 +1,5 @@
+This projects simulate the convection diffusion source free eqn on a 1D domain with Dirichlet boundary conditions 
+
+CD scheme predicts the exact solution with good accuracy .
+
+When the code is ran for Pe = 5 which is > 2 , CD produces unbounded solution. 
